@@ -1,0 +1,1 @@
+A dark, responsive image gallery with category filters, lightbox viewer, prev/next navigation, keyboard and swipe support, a favourites store powered by localStorage, and a slide-in saved panel — all built in plain HTML, CSS, and JavaScript with no frameworks required.
